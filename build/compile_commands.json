@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sudorfrm/Dev/cpptest/build",
+  "command": "/usr/bin/g++-13 -I/home/sudorfrm/Dev/cpptest/include -g -std=gnu++20 -Wall -Wextra -Wpedantic -o CMakeFiles/cpptest.dir/src/main.cpp.o -c /home/sudorfrm/Dev/cpptest/src/main.cpp",
+  "file": "/home/sudorfrm/Dev/cpptest/src/main.cpp",
+  "output": "CMakeFiles/cpptest.dir/src/main.cpp.o"
+}
+]

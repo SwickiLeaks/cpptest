@@ -1,0 +1,3 @@
+/home/sudorfrm/Dev/cpptest/build/CMakeFiles/cpptest.dir
+/home/sudorfrm/Dev/cpptest/build/CMakeFiles/edit_cache.dir
+/home/sudorfrm/Dev/cpptest/build/CMakeFiles/rebuild_cache.dir
